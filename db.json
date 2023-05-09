@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Pasta with Tomato Sauce",
+      "description": "A classic Italian dish with homemade tomato sauce and fresh basil."
+    },
+    {
+      "id": 2,
+      "title": "Grilled Chicken Salad",
+      "description": "A healthy and delicious salad with grilled chicken, mixed greens, and a tangy vinaigrette."
+    },
+    {
+      "id": 3,
+      "title": "Vegetable Curry",
+      "description": "A flavorful Indian-style curry with a variety of vegetables and aromatic spices."
+    }
+  ]
+}

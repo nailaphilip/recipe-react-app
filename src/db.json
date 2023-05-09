@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "title": "Chicken curry",
+      "description": "Make masala, add the chicken and cook till ready.",
+      "id": 1
+    },
+    {
+      "title": "Pasta with Tomato Sauce",
+      "description": "A classic Italian dish with homemade tomato sauce and fresh basil",
+      "id": 2
+    }
+  ]
+}
